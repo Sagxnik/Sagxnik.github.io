@@ -812,8 +812,8 @@ sup {
     display: block;
   }
   .brand-logo {
-    position: absolute;
-    top: auto;
+    position: relative;
+    top: 10px;
     left: 40px;
     margin-bottom: 20px;
   }

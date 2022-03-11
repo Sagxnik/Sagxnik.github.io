@@ -189,7 +189,7 @@ table {
 /* Loading ............................. */
 /* ------------------------------------- */
 #loading {
-  background-color: #21252e;
+  background-color: #464545;
   position: fixed;
   top: 0;
   left: 0;
@@ -637,7 +637,7 @@ sup {
 }
 
 #bg.triangle {
-  background: #4d4d4d;
+  background: #464545;
 }
 
 /* ------------------------------------- */

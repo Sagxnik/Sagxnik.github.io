@@ -856,9 +856,9 @@ sup {
     display: block;
   }
   .brand-logo {
-    position: relative;
-    top: auto;
-    left: 40px;
+    position: absolute;
+    top: -30px;
+    left: -10px;
     margin-bottom: 20px;
   }
   .fp-section {

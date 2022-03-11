@@ -812,9 +812,9 @@ sup {
     display: block;
   }
   .brand-logo {
-    position: relative;
-    top: 10px;
-    left: 40px;
+    position: absolute;
+    top: -40px;
+    left: -10px;
     margin-bottom: 20px;
   }
   .fp-section {

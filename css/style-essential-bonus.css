@@ -645,7 +645,7 @@ sup {
 /* ------------------------------------- */
 .brand-logo {
   position: absolute;
-  top: -30px;
+  top: -40px;
   left: -10px;
   max-width: 200px;
 }
@@ -812,9 +812,9 @@ sup {
     display: block;
   }
   .brand-logo {
-    position: relative;
-    top: auto;
-    left: 40px;
+    position: absolute;
+    top: -40px;
+    left: -10px;
     margin-bottom: 20px;
   }
   .fp-section {
@@ -856,9 +856,9 @@ sup {
     display: block;
   }
   .brand-logo {
-    position: relative;
-    top: auto;
-    left: 40px;
+    position: absolute;
+    top: -40px;
+    left: -10px;
     margin-bottom: 20px;
   }
   .fp-section {
